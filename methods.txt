@@ -1,0 +1,7 @@
+useful http request methods with the requests module:
+
+requests.post
+requests.put
+requests.patch
+requests.get
+requests.delete
